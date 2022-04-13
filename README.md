@@ -1,11 +1,25 @@
-- 👋 Hi, I’m @PLEXUS21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm
+`Joseph Lewis`
+
+*Amateur Coder, Professional Eater*
 
 
-<img align="left" alt="JS" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+> “Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.” -Bill Gates
+
+- :electron: Electrical Engineer
+- 🎨 Graphic Designer
+- 💻 Programmer
+- 🍕 Loves Food
+
+```mermaid
+flowchart TD
+    A[Wake Up] --> B[Light Outside];
+    B -- Yes --> C{Get out of Bed};
+    B -- No -->  D{Go Back to Sleep};
+    D ----> A;
+```
+
+[link](https://github.com/PLEXUS21/PLEXUS21/edit/main/README.md)
 
 <!---
 PLEXUS21/PLEXUS21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

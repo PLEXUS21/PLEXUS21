@@ -11,14 +11,6 @@ Hi, I'm
 - 💻 Programmer
 - 🍕 Loves Food
 
-```mermaid
-flowchart TD
-    A[Wake Up] --> B[Light Outside];
-    B -- Yes --> C{Get out of Bed};
-    B -- No -->  D{Go Back to Sleep};
-    D ----> A;
-```
-
 [link](https://github.com/PLEXUS21/PLEXUS21/edit/main/README.md)
 
 <!---
